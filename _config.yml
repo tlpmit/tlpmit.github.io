@@ -21,8 +21,8 @@ author: Tomas Lozano-Perez
 
 navbar-links:
   Bio: "aboutme"
-  Group: "lis"
-  Author's home: "https://people.csail.mit.edu/tlp/"
+  LIS Group Home: "https://lis.csail.mit.edu/"
+  Publications: "https://scholar.google.ca/citations?user=gQOKAggAAAAJ&hl=en"
 
 ################
 # --- Logo --- #
@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/tlp_headshot_lowres.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
